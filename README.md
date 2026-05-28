@@ -14,7 +14,8 @@ Feel free to check out my portfolio [✨here✨](https://zcxu-4444.github.io/)
 
 A browser-based survival novel strategy game inspired by a Chinese historical drama, *Story of Yanxi Palace*, and a retro educational video game *The Oregon Trail*. Navigate through palace schemes, avenge your sister and allies, manage stats, and survive 32 years in the Qing Dynasty court. Built with p5.js.
 
-<img width="667" height="273" alt="Screenshot 2026-05-09 174939" src="https://github.com/user-attachments/assets/e4d5f245-0de9-4f6e-83c9-8523ed0014a3" />
+<img width="2555" height="897" alt="Screenshot 2026-05-27 214241" src="https://github.com/user-attachments/assets/8c54259a-93f2-4c6d-baf6-8758692528bf" />
+
 <br>
 
 [**Amhrest - Off-Campus Housing Platform**](https://github.com/akoduru727/CS320-Spring2026-S3-Team1)
