@@ -3,7 +3,7 @@
 </p>
 
 ## Hello! :]
-My name is Cathy, and I am a CS Junior at UMass Amherst with an interest in game development, product management, and UI/UX design.
+My name is Cathy, and I am a CS Senior at UMass Amherst with an interest in game development, product management, and UI/UX design.
 
 I've gained project experience in courses such as software engineering, human-computer interaction, art & code, and digital design. Currently, my favorite video game is Red Dead Redemption 2!
 
